@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&family=Cabin+Sketch:wght@700&family=Titillium+Web:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@878&family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Volkhov:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cardo:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Taviraj:ital,wght@1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed&display=swap');
+
+
+body 
+{
+    overflow-x: hidden;
+}
+/* .img-fluid
+{
+    max-width: 124%;
+} */
+.fa-filter
+{
+    font-size: 18px;
+}
+#banner1-col
+{
+    max-width: 82%;
+}
+#banner-1
+{
+    height: 400px;
+    width: 600px;
+}
+
+.box
+{
+    border: 1px solid blue;
+    height: 30em;
+    padding: 10px;
+}
+.product
+{
+    border: 1px solid goldenrod;
+    height: 5em;
+}
+#icon
+{
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+
+}
+
+.card
+{
+    border-radius: none;
+    cursor: pointer;
+
+}
+.card:hover
+{
+    box-shadow: 1px 1px 2px gray;
+}
+
+.card-footer
+{
+    background: none;
+    width: 100%;
+}
+.title
+{
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-size:25px;   
+}
+.search
+{
+    border-radius: 32px;
+    background-color: white;
+    box-shadow: 1px 1px 3px grey !important;
+    border: none;
+    padding: 7px;
+    width: 4%;
+}
+
+.form-control
+{
+    background-color: transparent;
+    border: none;
+    box-shadow:0;
+    outline: none;
+}
+
+.fa-search
+{
+    font-size: 20px;
+    color: gray;
+}
+.bg-light {
+    background-color: #3498DB !important;
+}
+.Menu{
+    font-family: 'Titillium Web', sans-serif;
+    color: white !important;
+    font-size: 20px;
+}
+
+
+.carousel-item>img
+{
+    height: 600px;
+}
+#bannercontent
+{
+    color: white;
+    font-size: 30px;
+}
+#bannercontent>p{
+    text-align: center;
+    font-family: 'Bungee Inline', cursive;
+    font-size: 55px;
+    margin-top: 30%;
+
+}
+.cuisne-icon
+{
+    height: 50px;
+    width: 60px;
+}
+.gal-img
+{
+    height: 140px;
+    width: 400px;
+}
+
+.footer
+{
+    background-color: #3498DB;
+}
+.subcontent
+{
+font-family: 'Volkhov', serif;
+font-size: 20px;
+margin-top: 2%;
+}
+.subtext
+{
+font-family: 'Noto Serif', serif;
+
+}
+.card-title
+{
+    font-family: 'Cardo', serif;
+    font-size: 20px;
+}
+.card-text
+{
+    font-family: 'Noto Serif', serif;
+    font-size: 15px;
+}
+.footer-links
+{
+    font-family: 'Taviraj', serif;
+    font-size: 22px;
+    color:white;
+}
+.usefull-links
+{
+    font-family: 'Josefin Slab', serif;
+    font-size: 16px;
+    font-weight: 600;
+    color:white;
+}
+.card-img-top
+{
+    height: 200px;
+}
+
+@media (min-width: 992px)
+{
+#cuisines>.col-lg-4 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 28.333333%;
+    max-width: 33.333333%;
+}
+}
+
+.social-icons
+{
+    color: white;
+}
+
+.about-font
+{
+    color: white;
+}
+
+.list-group-item
+{
+    border:none;
+}
+.swal2-confirm {
+    display: none !important;
+}
+
+.input-group{
+    background: white;
+    border-radius: 30px;
+}
+
+.selected
+{
+    background-color: green;
+}
+.menu-icon
+{
+    height: 30px;
+}

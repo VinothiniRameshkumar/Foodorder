@@ -1,0 +1,22 @@
+<div class="about-section">
+  <h1>About Us</h1>
+  <p> At greatcontent, we work with a range of food-related businesses, including some of Europe’s most dynamic delivery services. And we’ve found that success is about more than offering accessible apps, wide choice, and easy-to-navigate menus.To achieve the kind of visibility required to attract diners, online food ordering companies also need a comprehensive content strategy – one which markets their partner restaurants and their specialities, while foregrounding the delivery brand, and with dynamic SEO content to top it all off.</p>
+</div>
+<h2 style="text-align:center">Our Clients</h2>
+<div class="container">
+            <div class="row mt-3">
+              <div class="col-lg-3 col-md-6 mb-1">
+                <img src="images/h1.png" class="img-fluid gal-img">
+              </div>
+              <div class="col-lg-3 col-md-6 mb-1">
+                <img src="images/h2.png" class="img-fluid gal-img">
+              </div>
+              <div class="col-lg-3 col-md-6 mb-1">
+                <img src="images/h4.png" class="img-fluid gal-img">
+              </div>
+              <div class="col-lg-3 col-md-6 mb-1">
+                <img src="images/h5.png" class="img-fluid gal-img">
+              </div>
+
+               </div>
+            </div>
